@@ -12,4 +12,4 @@ Website kelas yang menampilkan galeri foto kegiatan kelas, struktur organisasi k
 - 💻 JavaScript
 
 ### Web ini dibuat oleh
-- 🧑 saya sendiri
+-saya sendiri..
