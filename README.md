@@ -1,4 +1,4 @@
-# Website
+# X-RPL
 Website kelas yang menampilkan galeri foto kegiatan kelas, struktur organisasi kelas, dan jadwal pelajaran.
 
 ## Yang ada di dalam website kelas ini
