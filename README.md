@@ -7,9 +7,9 @@ Website kelas yang menampilkan galeri foto kegiatan kelas, struktur organisasi k
 - 🗓️ Jadwal pelajaran
 
 ## Bahasa yang dipakai
-- HTML
-- CSS
-- JavaScript
+- 💻 HTML
+- 💻 CSS
+- 💻 JavaScript
 
 ### Web ini dibuat oleh
-- saya sendiri
+- 🧑 saya sendiri
