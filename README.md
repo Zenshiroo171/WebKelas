@@ -11,5 +11,5 @@ Website kelas yang menampilkan galeri foto kegiatan kelas, struktur organisasi k
 - CSS
 - JavaScript
 
-### Program ini dibuat oleh
+### Web ini dibuat oleh
 - saya sendiri
